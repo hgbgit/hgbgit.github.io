@@ -4,5 +4,5 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: "/hgbgit.github.io/", // Replace with your repo name
+  base: "/sinestesia/", // Replace with your repo name
 });
