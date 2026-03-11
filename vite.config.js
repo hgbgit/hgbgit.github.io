@@ -3,6 +3,6 @@ import react from '@vitejs/plugin-react'
 
 
 export default defineConfig({
-  plugins: [react()],
-  base: "/", // Replace with your repo name
+  plugins: [react( )],
+  base: "/sinestesia/", // Add your repository name here
 });

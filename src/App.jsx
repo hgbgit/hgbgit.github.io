@@ -7,7 +7,7 @@ function App() {
         <BrowserRouter>
             <Routes>
                 {/* A rota "/" é a página principal. Ela vai carregar apenas o seu componente */}
-                <Route path="/" element={<CorERitmo />} />
+                <Route path="/sinestesia" element={<CorERitmo />} />
             </Routes>
         </BrowserRouter>
     );
